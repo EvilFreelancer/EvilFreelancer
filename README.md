@@ -2,7 +2,7 @@
 
 List of links to my public projects and social media groups/channels.
 
-You may support me here: https://pay.cloudtips.ru/p/937f48ac, https://boosty.to/evilfreelancer]
+You may support me here: https://pay.cloudtips.ru/p/937f48ac, https://boosty.to/evilfreelancer
 
 #### 📫 Primary Communication Channels
 
