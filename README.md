@@ -29,6 +29,4 @@ PS. This list will be updated.
 
 Initially, I launched this project on Steam because I wanted to receive good recommendations for games, but most curators were talking about the same AAA titles, so I wanted to create my own curator with games I like.
 
-* [Steam curator](https://store.steampowered.com/curator/31790204/)
-* [Steam group](https://steamcommunity.com/groups/games-for-programmers)
-* [Telegram channel](https://t.me/gms4prgs)
+* [Steam curator](https://store.steampowered.com/curator/31790204/) / [Steam group](https://steamcommunity.com/groups/games-for-programmers) / [Telegram channel](https://t.me/gms4prgs)
