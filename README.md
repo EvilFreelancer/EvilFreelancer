@@ -12,7 +12,7 @@ You may support me here: https://pay.cloudtips.ru/p/937f48ac, https://boosty.to/
 * [YouTube Channel](https://www.youtube.com/channel/UCccsvZvhDJM29efjACW0ihg) / [VK Mirror](https://vk.com/evilfreelancer) / [RuTube Mirror](https://rutube.ru/channel/24268442/) - I started by posting videos on YouTube and streaming on Twitch, but lately, I simply don't have a spare time;
 * [Projects on GitHub](https://github.com/EvilFreelancer) - you're currently here;
 * [Publications on Habr](https://habr.com/ru/users/efreelancer/) - I rarely write there;
-* [Twitter Channel] - I rarely write there.
+* [Twitter Channel](https://twitter.com/EvilFreelancer) - I rarely write there.
 
 #### 🚲 My projects
 
